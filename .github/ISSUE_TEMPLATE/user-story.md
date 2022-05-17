@@ -1,4 +1,3 @@
-
 As a **role**, I can **capability** so that **received benefit**
 
 ## Acceptance Criteria
@@ -7,6 +6,6 @@ As a **role**, I can **capability** so that **received benefit**
 - Acceptance criteria 3:
 
 ## Task
-- Task 1:
-- Task 2:
-- Task 3:
+- [] Task 1:
+- [] Task 2:
+- [] Task 3:
